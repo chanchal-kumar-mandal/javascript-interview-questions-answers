@@ -1,5 +1,5 @@
 # Description
-JavaScript interview questions and answers.
+JavaScript interview questions and answers. Some coding exercise.
 
 ### Table of Contents
 
